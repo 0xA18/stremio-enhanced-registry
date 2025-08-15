@@ -17,7 +17,8 @@ This is the official repository of community-made plugins/themes for Stremio Enh
 
 ## Update Policy
 **For security reasons, you will have to submit a new PR every update to update your plugin metadata, so I can review your code and make sure it's safe for users.**
-For themes, one submission is enough. Make sure your "download" field links to always the latest version available.
+
+**For themes, one submission is enough. Just make sure your "download" field links to always the latest version available.**
 
 ## Reporting Issues
 If you find any harmful or malicious plugins/themes, please report them by opening an issue in this repository with as much detail as possible.
