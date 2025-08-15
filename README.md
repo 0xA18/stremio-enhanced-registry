@@ -11,12 +11,13 @@ This is the official repository of community-made plugins/themes for Stremio Enh
 ### Submitting guidelines:
 - No malicious or harmful code allowed. Any attempts to submit malicious content will result in a permanent block.
 - Code must be clear and readable. Obfuscated or intentionally confusing code will **not** be accepted.
-- Your plugin/theme must have metadata at the top of file. Here is what that looks like.
+- Your plugin/theme must have metadata at the top of file. [Here is what that looks like.](https://github.com/REVENGE977/stremio-enhanced?tab=readme-ov-file#-creating-your-own-plugin)
 - Follow the existing JSON structure.
-- The "download" field in the metadata must link to a direct raw file URL pointing to a specific version of your plugin/theme (not a latest or dynamic link).
+- For plugins, the "download" field in the metadata must link to a direct raw file URL pointing to a specific version of your plugin (not a latest or dynamic link).
 
 ## Update Policy
-**For security reasons, you will have to submit a new PR every update to update your plugin/theme metadata, so I can review your code and make sure it's safe for users.**
+**For security reasons, you will have to submit a new PR every update to update your plugin metadata, so I can review your code and make sure it's safe for users.**
+For themes, one submission is enough. Make sure your "download" field links to always the latest version available.
 
 ## Reporting Issues
 If you find any harmful or malicious plugins/themes, please report them by opening an issue in this repository with as much detail as possible.
