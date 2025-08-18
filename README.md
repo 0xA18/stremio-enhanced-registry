@@ -1,12 +1,14 @@
 <h1 align="center">Stremio Enhanced Registry</h1>
 
 ## What is this repository for?
-This is the official repository of community-made plugins/themes for Stremio Enhanced. Here you can submit your own plugin/theme to appear in Stremio Enhanced list of plugins/themes.
+This is the official repository of community-made plugins/themes for Stremio Enhanced. Here you can submit your own plugin/theme to appear in Stremio Enhanced in the brwose section of plugins/themes **the section will be added next update in Enhanced**.
 
 ## How do I submit my plugin/theme?
 - Fork or clone this repository.
 - Add your plugin/theme metadata to the registry.json file, following the existing JSON structure and examples.
 - Submit a Pull Request (PR) with your changes.
+
+Alternatively, just create a new issue providing the metadata of your plugin/theme and I'll add it for you.
 
 ### Submitting guidelines:
 - No malicious or harmful code allowed. Any attempts to submit malicious content will result in a permanent block.
@@ -21,7 +23,7 @@ This is the official repository of community-made plugins/themes for Stremio Enh
 **For themes, one submission is enough. Just make sure your "download" field links to always the latest version available.**
 
 ## Reporting Issues
-If you find any harmful or malicious plugins/themes, please report them by opening an issue in this repository with as much detail as possible.
+If you find any harmful or malicious plugins, please report them by opening an issue in this repository with as much detail as possible.
 
 ## Notice
 This repository and Stremio Enhanced are not affiliated in any way with Stremio.

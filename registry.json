@@ -5,9 +5,16 @@
       "author": "REVENGE977",
       "description": "A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.",
       "version": "1.0.0",
-      "tags": ["skip", "anime"],
       "repo": "https://github.com/REVENGE977/stremio-aniskip",
       "download": "https://raw.githubusercontent.com/REVENGE977/stremio-aniskip/refs/heads/main/dist/AniSkip.plugin.js"
+    },
+    {
+      "name": "Slash to Search",
+      "author": "REVENGE977",
+      "description": "A simple plugin that allows you to search for movies, series, and anime by typing a slash (/) in the search bar.",
+      "version": "1.0.1",
+      "repo": "https://github.com/REVENGE977/stremio-slash-to-search",
+      "download": "https://raw.githubusercontent.com/REVENGE977/SlashToSearch/refs/heads/main/SlashToSearch.plugin.js"
     }
   ],
   "themes": [
@@ -16,7 +23,6 @@
       "author": "REVENGE977",
       "description": "A pitch black theme for stremio-enhanced",
       "version": "1.0.3",
-      "tags": ["dark", "minimal"],
       "repo": "https://github.com/REVENGE977/StremioAmoledTheme",
       "preview": "https://github.com/REVENGE977/stremio-enhanced/raw/main/images/amoled_screenshot.png",
       "download": "https://raw.githubusercontent.com/REVENGE977/StremioAmoledTheme/refs/heads/main/amoled.theme.css"
