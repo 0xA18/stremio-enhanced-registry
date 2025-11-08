@@ -20,9 +20,9 @@
       "name": "FilterStreams",
       "author": "0xA18",
       "description": "Filters a movie's/tv show episode's streams",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "repo": "https://github.com/0xA18/stremio-enhanced-plugins/",
-      "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta-3.1/filter-streams.plugin.js"
+      "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta-3.2/filter-streams.plugin.js"
     },
     {
       "name": "Stremio Intro Skip",
@@ -31,14 +31,6 @@
       "version": "1.1.0",
       "repo": "https://github.com/shugi12345/stremio-skip-button",
       "download": "https://github.com/shugi12345/stremio-skip-button/releases/download/v1.1.0/skip-intro.plugin.js"
-    },
-    {
-      "name": "Enhanced Covers [Modern Glass Theme]",
-      "author": "Fxy",
-      "description": "Widens the cover images on the posters.",
-      "version": "1.0.0",
-      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/enhanced-covers.plugin.js"
     },
     {
       "name": "Enhanced Player [Modern Glass Theme]",
